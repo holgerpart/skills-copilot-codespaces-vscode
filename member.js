@@ -1,4 +1,4 @@
-function skillsmember() {
+function skillsmember () {
     return {
         restrict: 'E',
         scope: {
